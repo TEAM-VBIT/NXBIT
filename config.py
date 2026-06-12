@@ -89,16 +89,16 @@ autoclean = []
 confirmer = {}
 file_cache: dict[str, float] = {}
 
-START_IMG_URL = ["https://te.legra.ph/file/5fd13f2cc0d03bce9f7f2.jpg",
-                 "https://te.legra.ph/file/c15d01b3e6b40ea141dc9.jpg",
+START_IMG_URL = ["https://files.catbox.moe/tffrtm.jpg",
+                 "https://files.catbox.moe/b7ohtl.jpg",
                  "https://te.legra.ph/file/5fd13f2cc0d03bce9f7f2.jpg"]
     
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/87f680aead03443f291b0.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/4jr6cc.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/edd388a42dd2c499fd868.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/492a3bb2e880d19750b79.jpg"
+TELEGRAM_AUDIO_URL = "https://litter.catbox.moe/s40e8p.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/492a3bb2e880d19750b79.jpg"
 STREAM_IMG_URL = "https://graph.org/file/ff2af8d4d10afa1baf49e.jpg"
 SOUNCLOUD_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"

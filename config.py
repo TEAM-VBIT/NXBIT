@@ -91,7 +91,7 @@ file_cache: dict[str, float] = {}
 
 START_IMG_URL = ["https://files.catbox.moe/tffrtm.jpg",
                  "https://files.catbox.moe/b7ohtl.jpg",
-                 "https://te.legra.ph/file/5fd13f2cc0d03bce9f7f2.jpg"]
+                 "https://litter.catbox.moe/v4a6j1.bin"]
     
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/4jr6cc.jpg"

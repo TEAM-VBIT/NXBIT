@@ -219,7 +219,7 @@ async def helper_cb(client, CallbackQuery:CallbackQuery, _):
         
         try:
             await CallbackQuery.edit_message_text(
-                "🎤 **TTS Model Settings**\n\nSelect a voice model \n\n [Check out the samples here](https://t.me/amigr8/27)",
+                "🎤 **TTS Model Settings**\n\nSelect a voice model \n\n [Check out the samples here](https://t.me/llDEAR_NICKll)",
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.DEFAULT
             )

@@ -44,8 +44,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Nexaroid")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NexaroidChats")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/llNICK_UPDATESll")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/llNICK_UPDATESll")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
@@ -89,15 +89,15 @@ autoclean = []
 confirmer = {}
 file_cache: dict[str, float] = {}
 
-START_IMG_URL = ["https://litter.catbox.moe/v4a6j1.bin",
-                 "https://litter.catbox.moe/v4a6j1.bin",
-                 "https://litter.catbox.moe/v4a6j1.bin"]
+START_IMG_URL = ["https://i.ibb.co/SXPNnRtS/x.jpg",
+                 "https://i.ibb.co/SXPNnRtS/x.jpg",
+                 "https://i.ibb.co/SXPNnRtS/x.jpg"]
     
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://litter.catbox.moe/f8i5rh.jpg"
+    "PING_IMG_URL", "https://i.ibb.co/SXPNnRtS/x.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/edd388a42dd2c499fd868.jpg"
+STATS_IMG_URL = "https://i.ibb.co/SXPNnRtS/x.jpg"
 TELEGRAM_AUDIO_URL = "https://litter.catbox.moe/s40e8p.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/492a3bb2e880d19750b79.jpg"
 STREAM_IMG_URL = "https://graph.org/file/ff2af8d4d10afa1baf49e.jpg"

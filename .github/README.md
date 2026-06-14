@@ -11,7 +11,7 @@ Advanced Telegram Music Bot with Powerful Features
 </p>
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/bhaisoumu/Xbit">
+  <a href="https://heroku.com/deploy?template=https://github.com/TEAM-VBIT/NXBIT">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
   </a>
 </p>
